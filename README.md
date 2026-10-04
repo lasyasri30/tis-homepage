@@ -1,12 +1,113 @@
-# React + Vite
+# Tulas International School — Homepage Redesign
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern homepage redesign for Tulas International School (TIS), Dehradun, built with React, Tailwind CSS, and Framer Motion.
 
-Currently, two official plugins are available:
+## Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://tis-homepage-o5wkktttm-tis15.vercel.app/
 
-## Expanding the ESLint configuration
+## GitHub Repository
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+https://github.com/lasyasri30/tis-homepage
+
+## Project Overview
+
+This project is a modern redesign of the Tulas International School homepage.
+
+The goal is to create a clean, engaging, and user-friendly website while maintaining the school's educational identity and core messaging.
+
+## Features
+
+- Responsive homepage layout
+- Modern navigation bar
+- Hero section with call-to-action buttons
+- About TIS section
+- Why TIS section
+- Academics section
+- Campus and Facilities section
+- Admissions call-to-action
+- Footer with quick links
+- Smooth section navigation
+- Light and Dark mode
+- Scroll-triggered animations
+- Image hover effects
+
+## Standout Features
+
+### 1. Scroll-Triggered Animations
+
+Framer Motion is used to animate sections when they enter the viewport, creating a smooth and engaging browsing experience.
+
+### 2. Light / Dark Mode
+
+Users can switch between light and dark themes using the theme toggle in the navigation bar.
+
+## Technologies Used
+
+- React
+- Vite
+- JavaScript
+- Tailwind CSS
+- Framer Motion
+- HTML
+- CSS
+- Vercel
+
+
+
+## Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/lasyasri30/tis-homepage.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd tis-homepage
+```
+
+Install the dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+The application will run on the local development server provided by Vite.
+
+## Production Build
+
+To create a production build:
+
+```bash
+npm run build
+```
+
+## Deployment
+
+The project is deployed using Vercel.
+
+Live website:
+
+https://tis-homepage-o5wkktttm-tis15.vercel.app/
+
+## Design Approach
+
+The redesign focuses on:
+
+- Clean and modern educational design
+- Strong typography and visual hierarchy
+- TIS-inspired yellow and dark slate colors
+- Rounded cards and subtle shadows
+- Smooth animations
+- Clear calls to action
+- User-friendly navigation
+
